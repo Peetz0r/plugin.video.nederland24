@@ -72,6 +72,7 @@ EVENTCHANNELS = [
   ["NPO Event 1", "npo_placeholder.png", "tvlive/mcr1/mcr1.isml/mcr1.m3u8", "NPO Evenementkanaal 1."], 
   ["NPO Event 2", "npo_placeholder.png", "tvlive/mcr2/mcr2.isml/mcr2.m3u8", "NPO Evenementkanaal 2."],
   ["NPO Event 3", "npo_placeholder.png", "tvlive/mcr3/mcr3.isml/mcr3.m3u8", "NPO Evenementkanaal 3."],
+  ["NPO Sport", "npo_placeholder.png", "sportzomer/nposport/nposport.isml/nposport.m3u8", "NOS Sport"],
   ["NOS Sport 01", "npo_placeholder.png", "sportzomer/multi01/multi01.isml/multi01.m3u8", "NOS Sportkanaal 01"],
   ["NOS Sport 02", "npo_placeholder.png", "sportzomer/multi02/multi02.isml/multi02.m3u8", "NOS Sportkanaal 02"],
   ["NOS Sport 03", "npo_placeholder.png", "sportzomer/multi03/multi03.isml/multi03.m3u8", "NOS Sportkanaal 03"],
