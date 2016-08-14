@@ -72,6 +72,18 @@ EVENTCHANNELS = [
   ["NPO Event 1", "npo_placeholder.png", "tvlive/mcr1/mcr1.isml/mcr1.m3u8", "NPO Evenementkanaal 1."], 
   ["NPO Event 2", "npo_placeholder.png", "tvlive/mcr2/mcr2.isml/mcr2.m3u8", "NPO Evenementkanaal 2."],
   ["NPO Event 3", "npo_placeholder.png", "tvlive/mcr3/mcr3.isml/mcr3.m3u8", "NPO Evenementkanaal 3."],
+  ["NOS Sport 01", "npo_placeholder.png", "sportzomer/multi01/multi01.isml/multi01.m3u8", "NOS Sportkanaal 01"],
+  ["NOS Sport 02", "npo_placeholder.png", "sportzomer/multi02/multi02.isml/multi02.m3u8", "NOS Sportkanaal 02"],
+  ["NOS Sport 03", "npo_placeholder.png", "sportzomer/multi03/multi03.isml/multi03.m3u8", "NOS Sportkanaal 03"],
+  ["NOS Sport 04", "npo_placeholder.png", "sportzomer/multi04/multi04.isml/multi04.m3u8", "NOS Sportkanaal 04"],
+  ["NOS Sport 05", "npo_placeholder.png", "sportzomer/multi05/multi05.isml/multi05.m3u8", "NOS Sportkanaal 05"],
+  ["NOS Sport 06", "npo_placeholder.png", "sportzomer/multi06/multi06.isml/multi06.m3u8", "NOS Sportkanaal 06"],
+  ["NOS Sport 07", "npo_placeholder.png", "sportzomer/multi07/multi07.isml/multi07.m3u8", "NOS Sportkanaal 07"],
+  ["NOS Sport 08", "npo_placeholder.png", "sportzomer/multi08/multi08.isml/multi08.m3u8", "NOS Sportkanaal 08"],
+  ["NOS Sport 09", "npo_placeholder.png", "sportzomer/multi09/multi09.isml/multi09.m3u8", "NOS Sportkanaal 09"],
+  ["NOS Sport 10", "npo_placeholder.png", "sportzomer/multi10/multi10.isml/multi10.m3u8", "NOS Sportkanaal 10"],
+  ["NOS Sport 11", "npo_placeholder.png", "sportzomer/multi11/multi11.isml/multi11.m3u8", "NOS Sportkanaal 11"],
+  ["NOS Sport 12", "npo_placeholder.png", "sportzomer/multi12/multi12.isml/multi12.m3u8", "NOS Sportkanaal 12"],
 ]
 
 def index():
